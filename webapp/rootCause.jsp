@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="${path}/static/css/lineChart.css" />
 <link rel="stylesheet" href="${path}/static/css/jquery.dataTables.css" />
 <!-- Get Application Topology page parameters -->
+Modified 1st
 <input type="hidden" id="nodeText" value="<%=request.getParameter("nodeName") %>" />
 <input type="hidden" id="clusterName" value="<%=request.getParameter("clusterName") %>" />
 <input type="hidden" id="hostname" value="<%=request.getParameter("hostname") %>" />
