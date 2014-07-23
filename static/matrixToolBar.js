@@ -3,9 +3,9 @@
 	 * Matrix tool bar, draw matrix chart on sliderbar.
 	 * sub class of laygoon.widgets.sliderBar.
 	 */
-	
-	var CUSTOMER_ID = 123456789,
-		MATRIX_URL = "/matrixBar/query",
+	modifyied on smartAdmin:
+	var CUSTOMER_ID = 1234567890,
+		MATRIX_URL = "/matrixBar/query",// hellow
 		Y_LABELS = {
 			APP_RESPONSE: "App Response Time",
 			CPU_USAGE: "CPU Usage",
