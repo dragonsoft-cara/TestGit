@@ -11,7 +11,7 @@
 			CPU_USAGE: "CPU Usage",
 			MEMORY_CONSUMED: "Memory Consumed",
 			STORAGE_LATENCY: "Storage Latency",
-			NETWORK_TCP_FATAL: "TCP Fatal Retry"
+			NETWORK_TCP_FATAL: "TCP Fatal Retry"//add something
 		};
 	
 	var matrixToolbar = function() {
