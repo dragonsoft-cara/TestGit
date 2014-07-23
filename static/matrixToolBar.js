@@ -4,14 +4,14 @@
 	 * sub class of laygoon.widgets.sliderBar.
 	 */
 	
-	var CUSTOMER_ID = 123456789,
+	var CUSTOMER_ID = 12345678912345,
 		MATRIX_URL = "/matrixBar/query",
 		Y_LABELS = {
 			APP_RESPONSE: "App Response Time",
 			CPU_USAGE: "CPU Usage",
 			MEMORY_CONSUMED: "Memory Consumed",
 			STORAGE_LATENCY: "Storage Latency",
-			NETWORK_TCP_FATAL: "TCP Fatal Retry"
+			NETWORK_TCP_FATAL: "TCP Fatal Retry"//add something
 		};
 	
 	var matrixToolbar = function() {

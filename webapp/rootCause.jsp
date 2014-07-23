@@ -14,9 +14,9 @@
 <input type="hidden" id="hostname" value="<%=request.getParameter("hostname") %>" />
 <input type="hidden" id="classifier" value="<%=request.getParameter("classifier") %>" /> 
 <!--Widget used in this page-->
-
+master modified 1st
 <widget:leftSiderBar/> 
-    <!--main content start-->
+    <!--main content start modified-->
     <section id="main-content" class="root-cause">
         <section class="wrapper">
         <!-- page start TODO:-->
