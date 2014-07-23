@@ -1,1 +1,0 @@
-<div id="tagsHeader"><div class="tags"><input name="tags" id="tags"/></div></div>
