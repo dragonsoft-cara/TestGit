@@ -1,5 +1,5 @@
 <div class="col-lg-4">
-    <section class="panel">
+    <section class="panel">smartChange
     	<header class="panel-heading">Worst Performers</header>
         <div class="panel-body">
         	<%-- <widget:areaChart chartName="worstPerformers"/>  --%> 
