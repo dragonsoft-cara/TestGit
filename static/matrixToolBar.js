@@ -2,6 +2,7 @@
 	/*
 	 * Matrix tool bar, draw matrix chart on sliderbar.
 	 * sub class of laygoon.widgets.sliderBar.
+修改
 	 */
 	modifyied on smartAdmin:
 	var CUSTOMER_ID = 1234567890,
