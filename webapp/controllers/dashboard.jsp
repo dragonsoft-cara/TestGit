@@ -9,7 +9,7 @@
 
 <widget:leftSiderBar/>
     <!--main content start-->
-    <section id="main-content">
+    <section id="main-content">test
         <section class="wrapper">
         <!-- page start TODO:-->
 
