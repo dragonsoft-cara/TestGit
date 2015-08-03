@@ -16,7 +16,7 @@
 		<div class="dashboard-main">
 	        <div class="row">
 				<jsp:include page="dataCenter.jsp" />
-	            
+	            test1
 	            <div class="col-lg-4">
 	               <section class="panel">
 	               	 	<header class="panel-heading">Application Performance</header>
