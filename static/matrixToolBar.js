@@ -2,6 +2,7 @@
 	/*
 	 * Matrix tool bar, draw matrix chart on sliderbar.
 	 * sub class of laygoon.widgets.sliderBar.
+修改
 	 */
 	modifyied on smartAdmin:
 	var CUSTOMER_ID = 1234567890,
@@ -11,7 +12,7 @@
 			CPU_USAGE: "CPU Usage",
 			MEMORY_CONSUMED: "Memory Consumed",
 			STORAGE_LATENCY: "Storage Latency",
-			NETWORK_TCP_FATAL: "TCP Fatal Retry"
+			NETWORK_TCP_FATAL: "TCP Fatal Retry"//add something
 		};
 	
 	var matrixToolbar = function() {
